@@ -6,8 +6,8 @@ __author__ = 'wangwenhui'
 import numpy as np
 import math
 import random
-from sce_uaXaj import cce_ua
-from gaXaj.XAJ import XAJ
+from sce_ua_xaj import cce_ua
+from ga_xaj.XAJ import XAJ
 
 
 def caltarget(predict, acutal):

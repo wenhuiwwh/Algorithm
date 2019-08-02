@@ -8,10 +8,10 @@ import numpy as np
 import pandas as pd
 import os
 import math
-from sce_uaXaj.sce_ua import SceUa
+from sce_ua_xaj.sce_ua import SceUa
 from matplotlib import pyplot as plt
 import matplotlib as mpl
-from gaXaj.XAJ import XAJ, QJcal
+from ga_xaj.XAJ import XAJ, QJcal
 
 mpl.rcParams['font.sans-serif'] = [u'Times New Roman']
 mpl.rcParams['axes.unicode_minus'] = False

@@ -4,8 +4,8 @@
 __author__ = 'wangwenhui'
 
 import numpy as np
-from gaXaj.XAJ import XAJ
-from sce_uaXaj import sce_ua
+from ga_xaj.XAJ import XAJ
+from sce_ua_xaj import sce_ua
 
 def cceua(s, area,xx0, sf, bl, bu, icall, df):
     '''
