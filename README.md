@@ -11,3 +11,7 @@ This is the code for the basic genetic algorithm to optimize the Xin'anjiang hyd
 ## 3. bayes_xaj
 
 This is the Bayesian algorithm to determine the parameters of the Xin'anjiang hydrological model, with reference to some information on the Internet.
+
+## 4.sce_ua_xaj
+
+The new sce_ua algorithm is added to optimize the Xin'anjiang hydrological model. At present, this algorithm is the most suitable optimization algorithm.
