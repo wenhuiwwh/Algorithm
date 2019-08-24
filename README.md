@@ -23,3 +23,7 @@ add optical flow method for radar data extrapolation
 ## 6. doc_trans
 
 Adding interchange of weather file data.
+
+## 7. bas_grnn
+
+增加天牛须算法优化广义回归神经网络的代码
